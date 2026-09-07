@@ -1,2 +1,2 @@
 # Sanku
-"Simple" game engine
+A game engine developed for internal use at Tuyuji.
